@@ -109,3 +109,8 @@ figcaption {
   height: 0;
   line-height: 0;
 }
+/*////////// MEDIA //////////*/
+ 
+img, video, audio {
+  max-width: 100%;
+}
